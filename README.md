@@ -42,3 +42,5 @@ Directory containing repeated acoustic index outputs. These files are included t
 Notes:
 
 All analyses were conducted in R 4.5.1.
+
+Raw audio files used for annotation can be accessed via: https://doi.org/10.5281/zenodo.17990267
