@@ -41,7 +41,7 @@ Directory containing repeated acoustic index outputs. These files are included t
 
 Notes:
 
-All analyses were conducted in R; package versions and dependencies should be checked within the scripts if full reproducibility is required.
+All analyses were conducted in R 4.5.1.
 
 Citation:
 
