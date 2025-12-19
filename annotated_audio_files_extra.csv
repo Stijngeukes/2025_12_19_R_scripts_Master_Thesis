@@ -1,0 +1,561 @@
+File;Device_ID;season;diel;habitat;cluster;technophony;geophony;anthropophony;biophony;waterbirds;birdsong;other;avian;insect;amphibian;dominance
+2025-03-28T22_44_30.362Z;6174ecbe;spring;night;Scrubland;AWD;self-noise;wind;0;0;0;0;0;0;0;0;technophony
+2025-04-08T19_12_52.147Z;6174ecbe;spring;dusk;Scrubland;AWD;self-noise;wind;0;0;0;0;0;0;0;0;geophony
+2025-04-19T19_58_05.550Z;6174ecbe;spring;dusk;Scrubland;AWD;self-noise;wind;0;0;0;0;0;0;0;0;geophony
+2025-04-24T20_28_14.126Z;6174ecbe;spring;dusk;Scrubland;AWD;self-noise;wind;0;0;0;0;0;0;0;0;geophony
+2025-04-27T03_29_12.864Z;6174ecbe;spring;dawn;Scrubland;AWD;self-noise;0;0;songbirds, cuckoo;0;1;0;1;0;0;biophony
+2025-05-06T18_29_25.188Z;6174ecbe;spring;day;Scrubland;AWD;self-noise;wind;0;songbirds;0;1;0;1;0;0;geophony
+2025-05-13T01_37_56.472Z;6174ecbe;spring;night;Scrubland;AWD;self-noise;wind;0;cuckoo;0;1;0;0;0;0;technophony
+2025-05-14T09_23_14.112Z;6174ecbe;spring;day;Scrubland;AWD;self-noise;wind, reed;0;songbirds;0;1;0;1;0;0;geophony
+2025-05-18T01_37_25.274Z;6174ecbe;spring;night;Scrubland;AWD;self-noise;wind;0;0;0;0;0;0;0;0;geophony
+2025-05-22T02_38_47.785Z;6174ecbe;spring;dawn;Scrubland;AWD;self-noise;wind;0;0;0;0;0;0;0;0;geophony
+2025-06-03T03_25_10.232Z;6174ecbe;spring;dawn;Scrubland;AWD;self-noise;wind;0;songbirds;0;1;0;1;0;0;biophony
+2025-06-20T05_11_19.547Z;6174ecbe;spring;day;Scrubland;AWD;self-noise;wind;cars;songbirds;0;1;0;1;0;0;geophony
+2025-06-23T03_28_58.268Z;6174ecbe;summer;dawn;Scrubland;AWD;self-noise;reed, wind;0;0;0;0;0;0;0;0;geophony
+2025-06-25T15_20_29.117Z;6174ecbe;summer;day;Scrubland;AWD;self-noise;wind;cars;0;0;0;0;0;0;0;technophony
+2025-07-01T22_23_51.719Z;6174ecbe;summer;dusk;Scrubland;AWD;self-noise;0;airplane;insects;0;0;0;0;1;0;biophony
+2025-07-05T01_58_04.553Z;6174ecbe;summer;dawn;Scrubland;AWD;self-noise;wind;0;insect;0;0;0;0;1;0;geophony
+2025-07-11T02_25_00.569Z;6174ecbe;summer;dawn;Scrubland;AWD;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-07-11T03_55_36.972Z;6174ecbe;summer;day;Scrubland;AWD;self-noise;0;0;songbirds;0;1;0;1;0;0;technophony
+2025-07-12T20_43_16.703Z;6174ecbe;summer;dusk;Scrubland;AWD;self-noise;wind, reed;0;insects;0;0;0;0;1;0;geophony
+2025-07-15T15_44_24.021Z;6174ecbe;summer;day;Scrubland;AWD;self-noise;wind;0;insects;0;0;0;0;1;0;geophony
+2025-08-08T20_25_21.145Z;6174ecbe;summer;dusk;Scrubland;AWD;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-08-20T22_01_39.267Z;6174ecbe;summer;night;Scrubland;AWD;self-noise, high pitch;0;0;0;0;0;0;0;0;0;technophony
+2025-08-23T22_29_34.088Z;6174ecbe;summer;night;Scrubland;AWD;self-noise, high pitch;0;0;gulls;1;0;0;1;0;0;technophony
+2025-09-09T00_14_30.223Z;6174ecbe;summer;night;Scrubland;AWD;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-05-25T01_54_54.483Z;6174ecbe;spring;dawn;Scrubland;AWD;self-noise;wind, rain;0;0;0;0;0;0;0;0;geophony
+2025-04-16T17_39_28.785Z;6174ecbe;spring;day;Scrubland;AWD;self-noise;wind;0;0;0;0;0;0;0;0;technophony
+2025-04-11T19_00_26.703Z;6174ecbe;spring;dusk;Scrubland;AWD;self-noise;0;Airplane;songbird;0;1;0;1;0;0;technophony
+2025-05-05T01_24_22.759Z;6174ecbe;spring;night;Scrubland;AWD;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-06-25T03_10_42.883Z;6174ecbe;summer;dawn;Scrubland;AWD;self-noise;wind;0;songbird;0;1;0;1;0;0;geophony
+2025-07-26T06_15_50.829Z;6174ecbe;summer;day;Scrubland;AWD;self-noise;0;0;distant birdcall;0;0;1;1;0;0;technophony
+2025-06-22T20_24_49.586Z;6174ecbe;summer;dusk;Scrubland;AWD;self-noise;wind;0;0;0;0;0;0;0;0;geophony
+2025-08-28T00_48_59.691Z;6174ecbe;summer;night;Scrubland;AWD;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-03-31T04_41_20.393Z;8f06b854;spring;dawn;Scrubland;AWD;self-noise;wind;0;songbirds;0;1;0;1;0;0;geophony
+2025-04-06T03_00_44.467Z;8f06b854;spring;night;Scrubland;AWD;self-noise;wind;0;birdcall;0;0;1;1;0;0;geophony
+2025-04-17T06_07_16.042Z;8f06b854;spring;day;Scrubland;AWD;self-noise;0;0;songbirds;0;1;0;1;0;0;biophony
+2025-04-28T01_50_46.411Z;8f06b854;spring;night;Scrubland;AWD;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-05-01T23_48_20.963Z;8f06b854;spring;night;Scrubland;AWD;self-noise;0;0;songbirds;0;1;0;1;0;0;biophony
+2025-05-10T03_02_30.051Z;8f06b854;spring;dawn;Scrubland;AWD;self-noise;wind;0;songbirds;0;1;0;1;0;0;biophony
+2025-05-12T20_46_23.066Z;8f06b854;spring;dusk;Scrubland;AWD;self-noise;0;0;frogs;0;0;0;0;0;1;biophony
+2025-05-31T04_30_32.323Z;8f06b854;spring;day;Scrubland;AWD;self-noise;0;0;songbirds;0;1;0;1;0;0;biophony
+2025-06-04T02_43_10.804Z;8f06b854;spring;dawn;Scrubland;AWD;self-noise;wind, rain;0;songbirds;0;1;0;1;0;0;geophony
+2025-06-12T22_12_37.824Z;8f06b854;spring;dusk;Scrubland;AWD;self-noise, high pitch;wind;0;0;0;0;0;0;0;0;technophony
+2025-06-17T12_17_51.271Z;8f06b854;spring;day;Scrubland;AWD;self-noise, ticking;wind;0;songbird;0;1;0;1;0;0;geophony
+2025-06-17T20_36_11.812Z;8f06b854;spring;dusk;Scrubland;AWD;self-noise, high pitch;0;0;0;0;0;0;0;0;0;technophony
+2025-07-10T20_31_46.035Z;8f06b854;summer;dusk;Scrubland;AWD;self-noise;wind;0;insect;0;0;0;0;1;0;geophony
+2025-07-12T20_08_18.717Z;8f06b854;summer;day;Scrubland;AWD;self-noise;wind;0;insect;0;0;0;0;1;0;biophony
+2025-07-14T03_23_14.963Z;8f06b854;summer;dawn;Scrubland;AWD;self-noise;0;0;songbird;0;1;0;1;0;0;technophony
+2025-07-20T03_13_18.945Z;8f06b854;summer;dawn;Scrubland;AWD;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-07-23T20_07_39.973Z;8f06b854;summer;dusk;Scrubland;AWD;self-noise;wind;0;insects;0;0;0;0;1;0;geophony
+2025-07-28T22_47_55.355Z;8f06b854;summer;night;Scrubland;AWD;self-noise;wind;0;insects;0;0;0;0;1;0;geophony
+2025-08-16T20_13_07.263Z;8f06b854;summer;dusk;Scrubland;AWD;self-noise;0;0;insect;0;0;0;0;1;0;technophony
+2025-08-18T23_21_06.939Z;8f06b854;summer;night;Scrubland;AWD;self-noise;wind;0;0;0;0;0;0;0;0;geophony
+2025-08-22T13_00_20.841Z;8f06b854;summer;day;Scrubland;AWD;self-noise, ticking;wind;0;0;0;0;0;0;0;0;geophony
+2025-08-26T22_17_14.959Z;8f06b854;summer;night;Scrubland;AWD;self-noise;wind;0;insects;0;0;0;0;1;0;geophony
+2025-09-15T05_17_08.167Z;8f06b854;summer;dawn;Scrubland;AWD;self-noise;wind;0;0;0;0;0;0;0;0;geophony
+2025-09-19T08_16_43.841Z;8f06b854;summer;day;Scrubland;AWD;self-noise;wind;airplane;birdcall;0;0;1;1;0;0;anthropophony
+2025-06-15T02_07_04.725Z;8f06b854;spring;dawn;Scrubland;AWD;self-noise;wind;0;songbirds;0;1;0;1;0;0;geophony
+2025-04-06T07_02_21.624Z;8f06b854;spring;day;Scrubland;AWD;self-noise;wind;airplanes;songbirds;0;1;0;1;0;0;geophony
+2025-04-06T19_07_12.379Z;8f06b854;spring;dusk;Scrubland;AWD;self-noise;wind;0;songbirds;0;1;0;1;0;0;technophony
+2025-04-15T22_52_18.967Z;8f06b854;spring;night;Scrubland;AWD;self-noise;0;0;songbirds;0;1;0;1;0;0;technophony
+2025-08-31T03_48_57.054Z;8f06b854;summer;dawn;Scrubland;AWD;self-noise;wind;0;0;0;0;0;0;0;0;geophony
+2025-07-03T06_25_05.166Z;8f06b854;summer;day;Scrubland;AWD;self-noise;wind;0;songbird;0;1;0;1;0;0;geophony
+2025-09-21T18_42_34.718Z;8f06b854;summer;dusk;Scrubland;AWD;self-noise;wind;0;0;0;0;0;0;0;0;geophony
+2025-09-12T00_41_36.421Z;8f06b854;summer;night;Scrubland;AWD;self-noise;wind, rain, waves?;0;0;0;0;0;0;0;0;geophony
+2025-03-29T22_50_47.427Z;9a2290fc;spring;night;Scrubland;AWD;self-noise;wind;airplane;0;0;0;0;0;0;0;geophony
+2025-03-30T19_00_05.553Z;9a2290fc;spring;dusk;Scrubland;AWD;self-noise;wind;0;0;0;0;0;0;0;0;geophony
+2025-04-07T22_17_55.907Z;9a2290fc;spring;night;Scrubland;AWD;self-noise;wind;0;gull;0;0;0;1;0;0;geophony
+2025-04-21T21_34_25.486Z;9a2290fc;spring;night;Scrubland;AWD;self-noise;wind;0;0;0;0;0;0;0;0;technophony
+2025-04-25T04_10_46.162Z;9a2290fc;spring;dawn;Scrubland;AWD;self-noise;wind;0;songbirds;0;1;0;1;0;0;geophony
+2025-05-02T11_44_37.691Z;9a2290fc;spring;day;Scrubland;AWD;self-noise, ticking;wind;car;0;0;0;0;0;0;0;geophony
+2025-05-06T18_51_55.320Z;9a2290fc;spring;day;Scrubland;AWD;self-noise;wind;0;0;0;0;0;0;0;0;geophony
+2025-05-23T19_01_03.425Z;9a2290fc;spring;day;Scrubland;AWD;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-05-24T02_50_22.421Z;9a2290fc;spring;dawn;Scrubland;AWD;self-noise;wind;0;songbirds;0;1;0;1;0;0;technophony
+2025-05-29T20_51_48.866Z;9a2290fc;spring;dusk;Scrubland;AWD;self-noise;wind;0;0;0;0;0;0;0;0;geophony
+2025-06-09T01_33_20.016Z;9a2290fc;spring;dawn;Scrubland;AWD;self-noise;wind;0;songbirds;0;1;0;1;0;0;geophony
+2025-06-17T21_25_11.587Z;9a2290fc;spring;dusk;Scrubland;AWD;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-06-23T02_07_28.741Z;9a2290fc;summer;dawn;Scrubland;AWD;self-noise;wind;0;0;0;0;0;0;0;0;geophony
+2025-06-29T10_10_29.116Z;9a2290fc;summer;day;Scrubland;AWD;self-noise;wind;motorcycles;insects;0;0;0;0;1;0;geophony
+2025-07-14T20_57_29.140Z;9a2290fc;summer;dusk;Scrubland;AWD;self-noise;wind;0;insects;0;0;0;0;1;0;geophony
+2025-07-21T00_49_05.703Z;9a2290fc;summer;night;Scrubland;AWD;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-07-23T02_42_39.914Z;9a2290fc;summer;dawn;Scrubland;AWD;self-noise;wind;0;0;0;0;0;0;0;0;technophony
+2025-07-23T20_49_56.671Z;9a2290fc;summer;dusk;Scrubland;AWD;self-noise;wind;0;insects;0;0;0;0;1;0;biophony
+2025-07-30T21_37_15.904Z;9a2290fc;summer;night;Scrubland;AWD;self-noise;wind;0;insects;0;0;0;0;1;0;geophony
+2025-08-09T22_42_19.344Z;9a2290fc;summer;night;Scrubland;AWD;self-noise;wind;0;insects;0;0;0;0;1;0;geophony
+2025-08-21T16_04_50.788Z;9a2290fc;summer;day;Scrubland;AWD;self-noise;wind;0;insects;0;0;0;0;1;0;geophony
+2025-08-27T10_07_28.055Z;9a2290fc;summer;day;Scrubland;AWD;self-noise;wind;airplane;0;0;0;0;0;0;0;geophony
+2025-09-13T05_09_50.503Z;9a2290fc;summer;dawn;Scrubland;AWD;self-noise;wind;0;0;0;0;0;0;0;0;geophony
+2025-09-15T18_06_41.984Z;9a2290fc;summer;dusk;Scrubland;AWD;self-noise;wind;0;0;0;0;0;0;0;0;geophony
+2025-03-24T05_23_36.973Z;9a2290fc;spring;dawn;Scrubland;AWD;self-noise;wind;0;songbird;0;1;0;1;0;0;geophony
+2025-04-11T09_26_06.249Z;9a2290fc;spring;day;Scrubland;AWD;self-noise;wind;0;songbirds;0;1;0;1;0;0;geophony
+2025-06-13T20_40_28.261Z;9a2290fc;spring;dusk;Scrubland;AWD;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-05-23T23_17_46.695Z;9a2290fc;spring;night;Scrubland;AWD;self-noise;0;0;songbirds;0;1;0;1;0;0;technophony
+2025-08-25T03_58_20.175Z;9a2290fc;summer;dawn;Scrubland;AWD;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-08-17T05_32_09.694Z;9a2290fc;summer;day;Scrubland;AWD;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-09-21T18_42_00.536Z;9a2290fc;summer;dusk;Scrubland;AWD;self-noise;wind, reed;0;cricket;0;0;0;0;1;0;geophony
+2025-09-19T21_06_17.771Z;9a2290fc;summer;night;Scrubland;AWD;self-noise;wind;0;cricket;0;0;0;0;1;0;biophony
+2025-03-21T05_34_59.173Z;de594337;spring;dawn;Scrubland;AWD;self-noise;wind;0;gull,songbird;1;1;0;1;0;0;technophony
+2025-03-29T05_16_36.146Z;de594337;spring;dawn;Scrubland;AWD;self-noise;wind;airplane;songbirds;0;1;0;1;0;0;biophony
+2025-04-05T00_44_25.011Z;de594337;spring;night;Scrubland;AWD;self-noise;wind;0;songbirds;0;1;0;1;0;0;technophony
+2025-04-06T15_02_09.690Z;de594337;spring;day;Scrubland;AWD;self-noise;wind;0;0;0;0;0;0;0;0;geophony
+2025-04-07T06_54_44.387Z;de594337;spring;day;Scrubland;AWD;self-noise, high pitch;wind;0;songbirds;0;1;0;1;0;0;biophony
+2025-04-09T19_51_37.012Z;de594337;spring;dusk;Scrubland;AWD;self-noise, high pitch;wind;airplane;0;0;0;0;0;0;0;geophony
+2025-04-18T18_13_25.325Z;de594337;spring;day;Scrubland;AWD;self-noise;wind;0;songbird;0;1;0;1;0;0;geophony
+2025-05-06T21_29_54.610Z;de594337;spring;night;Scrubland;AWD;self-noise, high pitch;wind, waves;0;0;0;0;0;0;0;0;geophony
+2025-05-23T20_48_51.411Z;de594337;spring;dusk;Scrubland;AWD;self-noise, high pitch;wind;airplane;0;0;0;0;0;0;0;geophony
+2025-05-27T02_39_54.944Z;de594337;spring;dawn;Scrubland;AWD;self-noise;wind, reed;0;songbirds;0;1;0;1;0;0;geophony
+2025-06-07T20_17_24.919Z;de594337;spring;dusk;Scrubland;AWD;self-noise, high pitch;wind, rain;0;0;0;0;0;0;0;0;geophony
+2025-06-17T22_36_44.110Z;de594337;spring;night;Scrubland;AWD;self-noise, high pitch;wind;airplane;0;0;0;0;0;0;0;technophony
+2025-06-24T13_20_03.058Z;de594337;summer;day;Scrubland;AWD;self-noise;wind;0;0;0;0;0;0;0;0;geophony
+2025-06-25T02_56_42.284Z;de594337;summer;dawn;Scrubland;AWD;self-noise;wind;0;insect, songbird;0;1;0;1;1;0;geophony
+2025-08-01T02_08_12.461Z;de594337;summer;night;Scrubland;AWD;self-noise;wind;0;0;0;0;0;0;0;0;technophony
+2025-08-02T20_26_25.899Z;de594337;summer;dusk;Scrubland;AWD;self-noise;wind;airplane;0;0;0;0;0;0;0;geophony
+2025-08-20T19_11_03.807Z;de594337;summer;dusk;Scrubland;AWD;self-noise, high pitch;wind;0;0;0;0;0;0;0;0;geophony
+2025-08-26T23_17_34.709Z;de594337;summer;night;Scrubland;AWD;self-noise;wind;0;0;0;0;0;0;0;0;geophony
+2025-08-30T20_29_50.652Z;de594337;summer;night;Scrubland;AWD;self-noise, high pitch;wind;motorcycles;0;0;0;0;0;0;0;geophony
+2025-09-07T19_27_14.581Z;de594337;summer;dusk;Scrubland;AWD;self-noise;wind;airplane;0;0;0;0;0;0;0;geophony
+2025-09-15T05_09_10.184Z;de594337;summer;dawn;Scrubland;AWD;self-noise;wind;0;0;0;0;0;0;0;0;geophony
+2025-09-15T15_58_31.184Z;de594337;summer;day;Scrubland;AWD;self-noise;wind;0;0;0;0;0;0;0;0;geophony
+2025-09-17T11_18_20.416Z;de594337;summer;day;Scrubland;AWD;self-noise, high pitch;wind;0;songbird;0;1;0;1;0;0;geophony
+2025-09-18T04_56_38.350Z;de594337;summer;dawn;Scrubland;AWD;self-noise;wind;0;0;0;0;0;0;0;0;geophony
+2025-06-13T01_58_52.619Z;de594337;spring;dawn;Scrubland;AWD;self-noise;0;0;songbirds;0;1;0;1;0;0;technophony
+2025-04-07T10_26_09.204Z;de594337;spring;day;Scrubland;AWD;self-noise;wind;airplane;songbird;0;1;0;1;0;0;geophony
+2025-06-09T20_24_06.087Z;de594337;spring;dusk;Scrubland;AWD;self-noise;wind;0;0;0;0;0;0;0;0;technophony
+2025-04-23T20_38_42.798Z;de594337;spring;night;Scrubland;AWD;self-noise;wind, rain;0;0;0;0;0;0;0;0;geophony
+2025-09-05T04_59_44.192Z;de594337;summer;dawn;Scrubland;AWD;self-noise;wind;0;0;0;0;0;0;0;0;geophony
+2025-08-18T10_30_56.303Z;de594337;summer;day;Scrubland;AWD;self-noise;wind;airplane;0;0;0;0;0;0;0;technophony
+2025-07-22T21_27_06.380Z;de594337;summer;dusk;Scrubland;AWD;self-noise;wind;0;0;0;0;0;0;0;0;geophony
+2025-08-20T02_19_16.568Z;de594337;summer;night;Scrubland;AWD;self-noise;wind;0;0;0;0;0;0;0;0;geophony
+2025-04-09T23_10_17.350Z;3b425ce9;spring;night;Wetland;Loenderveen;self-noise;wind;0;gulls;1;0;0;1;0;0;geophony
+2025-04-27T22_55_22.749Z;3b425ce9;spring;night;Wetland;Loenderveen;self-noise;0;0;songbirds, coot;1;1;0;1;0;0;biophony
+2025-05-06T03_01_06.253Z;3b425ce9;spring;dawn;Wetland;Loenderveen;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-05-15T10_12_38.073Z;3b425ce9;spring;day;Wetland;Loenderveen;self-noise;wind;0;songbirds, cuckoo;0;1;0;1;0;0;biophony
+2025-05-18T20_49_25.065Z;3b425ce9;spring;dusk;Wetland;Loenderveen;self-noise;wind;0;0;0;0;0;0;0;0;geophony
+2025-05-24T15_37_21.162Z;3b425ce9;spring;day;Wetland;Loenderveen;self-noise, ticking;wind, reed, rain;airplane;0;0;0;0;0;0;0;geophony
+2025-05-28T16_05_57.753Z;3b425ce9;spring;day;Wetland;Loenderveen;self-noise;wind;0;songbirds, fly;0;1;0;1;1;0;geophony
+2025-05-31T21_55_54.370Z;3b425ce9;spring;dusk;Wetland;Loenderveen;self-noise;0;cars;0;0;0;0;0;0;0;technophony
+2025-06-01T02_13_47.709Z;3b425ce9;spring;dawn;Wetland;Loenderveen;self-noise;wind;0;songbird;0;1;0;1;0;0;technophony
+2025-06-01T22_36_59.969Z;3b425ce9;spring;night;Wetland;Loenderveen;self-noise;wind;0;gull;1;0;0;1;0;0;technophony
+2025-06-05T02_12_10.433Z;3b425ce9;spring;dawn;Wetland;Loenderveen;self-noise;wind, reed;0;0;0;0;0;0;0;0;geophony
+2025-06-15T21_43_50.260Z;3b425ce9;spring;dusk;Wetland;Loenderveen;self-noise;0;0;songbird;0;1;0;1;0;0;technophony
+2025-06-24T16_54_58.654Z;3b425ce9;summer;day;Wetland;Loenderveen;self-noise;wind, reed;airplane;songbird;0;1;0;1;0;0;anthropophony
+2025-07-08T20_15_42.442Z;3b425ce9;summer;dusk;Wetland;Loenderveen;self-noise;0;cars;insects;0;0;0;0;1;0;biophony
+2025-07-12T20_29_09.198Z;3b425ce9;summer;dusk;Wetland;Loenderveen;self-noise;0;0;insect, goose;1;0;0;1;1;0;biophony
+2025-07-13T01_16_05.642Z;3b425ce9;summer;night;Wetland;Loenderveen;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-07-14T03_44_05.989Z;3b425ce9;summer;dawn;Wetland;Loenderveen;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-07-21T21_22_16.024Z;3b425ce9;summer;dusk;Wetland;Loenderveen;self-noise;rain;0;0;0;0;0;0;0;0;geophony
+2025-07-24T16_37_54.017Z;3b425ce9;summer;day;Wetland;Loenderveen;self-noise;0;aiplane;insects;0;0;0;0;1;0;biophony
+2025-07-31T16_23_45.744Z;3b425ce9;summer;day;Wetland;Loenderveen;self-noise;wind, reed;0;insect;0;0;0;0;1;0;biophony
+2025-08-01T03_44_41.999Z;3b425ce9;summer;dawn;Wetland;Loenderveen;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-08-06T03_54_02.920Z;3b425ce9;summer;dawn;Wetland;Loenderveen;self-noise;0;motorcycles;0;0;0;0;0;0;0;technophony
+2025-08-10T00_49_59.463Z;3b425ce9;summer;night;Wetland;Loenderveen;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-08-19T20_32_00.847Z;3b425ce9;summer;night;Wetland;Loenderveen;self-noise;wind, reed;0;insects, gull;1;0;0;1;1;0;geophony
+2025-05-24T02_01_52.889Z;3b425ce9;spring;dawn;Wetland;Loenderveen;self-noise;wind;0;0;0;0;0;0;0;0;geophony
+2025-04-11T09_11_20.785Z;3b425ce9;spring;day;Wetland;Loenderveen;self-noise;wind;airplane;songbirds, crow;0;1;1;1;0;0;biophony
+2025-05-12T20_14_09.937Z;3b425ce9;spring;dusk;Wetland;Loenderveen;self-noise;0;0;frog;0;0;0;0;0;1;technophony
+2025-04-06T03_28_43.585Z;3b425ce9;spring;night;Wetland;Loenderveen;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-07-09T01_47_56.152Z;3b425ce9;summer;dawn;Wetland;Loenderveen;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-07-25T18_49_39.089Z;3b425ce9;summer;day;Wetland;Loenderveen;self-noise;0;airplane;distant birdcall;0;0;1;1;0;0;anthropophony
+2025-07-20T20_26_03.079Z;3b425ce9;summer;dusk;Wetland;Loenderveen;self-noise;0;0;crickets ;0;0;0;0;1;0;biophony
+2025-07-11T23_49_38.702Z;3b425ce9;summer;night;Wetland;Loenderveen;self-noise;wind, reed;0;0;0;0;0;0;0;0;technophony
+2025-03-23T05_27_12.873Z;44e6e23b;spring;dawn;Wetland;Loenderveen;self-noise;0;0;songbird, gull;1;1;0;1;0;0;biophony
+2025-03-23T19_32_54.140Z;44e6e23b;spring;night;Wetland;Loenderveen;self-noise;0;airplane;0;0;0;0;0;0;0;technophony
+2025-04-10T13_30_39.423Z;44e6e23b;spring;day;Wetland;Loenderveen;self-noise, ticking;wind;0;songbirds;0;1;0;1;0;0;geophony
+2025-04-11T04_07_42.627Z;44e6e23b;spring;dawn;Wetland;Loenderveen;self-noise;0;0;songbirds, insect;0;1;0;1;1;0;biophony
+2025-04-14T18_46_04.711Z;44e6e23b;spring;dusk;Wetland;Loenderveen;self-noise;reed;airplane;songbirds;0;1;0;1;0;0;biophony
+2025-04-21T00_08_17.584Z;44e6e23b;spring;night;Wetland;Loenderveen;self-noise;rain;0;cricket;0;0;0;0;1;0;technophony
+2025-05-02T09_37_16.973Z;44e6e23b;spring;day;Wetland;Loenderveen;self-noise;0;cars;songbirds, cricket, geese;1;1;0;1;1;0;biophony
+2025-05-07T17_34_38.573Z;44e6e23b;spring;day;Wetland;Loenderveen;self-noise;wind, biting mic;0;0;0;0;0;0;0;0;geophony
+2025-05-10T02_16_01.509Z;44e6e23b;spring;night;Wetland;Loenderveen;self-noise;0;0;crickets;0;0;0;0;1;0;technophony
+2025-05-20T19_57_36.096Z;44e6e23b;spring;dusk;Wetland;Loenderveen;self-noise;reed;0;0;0;0;0;0;0;0;technophony
+2025-05-30T02_09_56.707Z;44e6e23b;spring;dawn;Wetland;Loenderveen;self-noise;reed, wind;0;songbirds;0;1;0;1;0;0;technophony
+2025-06-07T22_06_24.125Z;44e6e23b;spring;dusk;Wetland;Loenderveen;self-noise;wind, reed, rain;0;0;0;0;0;0;0;0;geophony
+2025-07-03T04_23_21.761Z;44e6e23b;summer;day;Wetland;Loenderveen;self-noise;wind;0;songbirds;0;1;0;1;0;0;biophony
+2025-07-09T23_21_03.310Z;44e6e23b;summer;night;Wetland;Loenderveen;self-noise;0;0;insects;0;0;0;0;1;0;biophony
+2025-07-24T20_17_26.965Z;44e6e23b;summer;dusk;Wetland;Loenderveen;self-noise;0;0;insects;0;0;0;0;1;0;biophony
+2025-07-26T21_24_37.196Z;44e6e23b;summer;dusk;Wetland;Loenderveen;self-noise;0;0;insects;0;0;0;0;1;0;biophony
+2025-08-02T02_37_53.301Z;44e6e23b;summer;dawn;Wetland;Loenderveen;self-noise;wind;0;0;0;0;0;0;0;0;technophony
+2025-08-03T10_06_42.939Z;44e6e23b;summer;day;Wetland;Loenderveen;self-noise;wind, reed;0;birdcall;0;0;1;1;0;0;technophony
+2025-08-13T04_17_36.901Z;44e6e23b;summer;dawn;Wetland;Loenderveen;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-08-15T19_45_35.303Z;44e6e23b;summer;dusk;Wetland;Loenderveen;self-noise;wind;0;insects, ducks;1;0;0;1;1;0;geophony
+2025-08-18T02_41_14.165Z;44e6e23b;summer;night;Wetland;Loenderveen;self-noise;wind;0;0;0;0;0;0;0;0;technophony
+2025-08-26T17_59_10.362Z;44e6e23b;summer;day;Wetland;Loenderveen;self-noise;wind;0;insect, gulls, songbird;1;1;0;1;1;0;biophony
+2025-08-30T04_22_02.541Z;44e6e23b;summer;dawn;Wetland;Loenderveen;self-noise;wind;0;ducks, songbirds;1;1;0;1;0;0;technophony
+2025-09-16T04_02_15.214Z;44e6e23b;summer;night;Wetland;Loenderveen;self-noise;wind, reed;0;0;0;0;0;0;0;0;geophony
+2025-06-17T02_50_04.231Z;44e6e23b;spring;dawn;Wetland;Loenderveen;self-noise;0;0;songbirds;0;1;0;1;0;0;biophony
+2025-04-15T08_52_56.595Z;44e6e23b;spring;day;Wetland;Loenderveen;self-noise;wind;car;songbird;0;1;0;1;0;0;geophony
+2025-05-25T20_07_54.294Z;44e6e23b;spring;dusk;Wetland;Loenderveen;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-03-26T23_21_57.760Z;44e6e23b;spring;night;Wetland;Loenderveen;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-07-30T03_30_49.930Z;44e6e23b;summer;dawn;Wetland;Loenderveen;self-noise;0;0;distant birdcall;0;0;1;1;0;0;technophony
+2025-07-24T11_43_59.947Z;44e6e23b;summer;day;Wetland;Loenderveen;self-noise;0;airplane;0;0;0;0;0;0;0;technophony
+2025-07-08T21_09_19.390Z;44e6e23b;summer;dusk;Wetland;Loenderveen;self-noise;0;0;insect;0;0;0;0;1;0;biophony
+2025-08-01T22_35_05.580Z;44e6e23b;summer;night;Wetland;Loenderveen;self-noise;0;0;crickets;0;0;0;0;1;0;biophony
+2025-03-27T03_27_50.243Z;cfc291d3;spring;night;Wetland;Loenderveen;self-noise;0;0;songbird;0;1;0;1;0;0;biophony
+2025-03-28T21_00_45.134Z;cfc291d3;spring;night;Wetland;Loenderveen;self-noise, high pitch;0;airplane;geese;1;0;0;1;0;0;biophony
+2025-04-04T04_40_11.156Z;cfc291d3;spring;dawn;Wetland;Loenderveen;self-noise;0;cars;songbirds, geese;1;1;0;1;0;0;biophony
+2025-04-04T12_58_32.082Z;cfc291d3;spring;day;Wetland;Loenderveen;self-noise;wind;airplane;songbirds, gulls, coot, hoot? ;1;1;1;1;0;0;biophony
+2025-04-11T03_50_39.565Z;cfc291d3;spring;dawn;Wetland;Loenderveen;self-noise;wind;motorcycles;songbirds;0;1;0;1;0;0;biophony
+2025-05-02T17_48_55.515Z;cfc291d3;spring;day;Wetland;Loenderveen;self-noise;reed;airplane, cars, sirens;songbirds, other birdcalls;0;1;1;1;0;0;biophony
+2025-05-04T03_19_45.167Z;cfc291d3;spring;dawn;Wetland;Loenderveen;self-noise;reed;0;geese, ducks, songbirds;1;1;0;1;0;0;biophony
+2025-05-07T12_56_06.308Z;cfc291d3;spring;day;Wetland;Loenderveen;self-noise;reed;airplane;geese, songbirds, cuckoo;1;1;0;1;0;0;biophony
+2025-05-07T20_44_14.544Z;cfc291d3;spring;dusk;Wetland;Loenderveen;self-noise;reed;motorcycles;geese;1;0;0;1;0;0;biophony
+2025-05-09T19_50_34.764Z;cfc291d3;spring;dusk;Wetland;Loenderveen;self-noise, high pitch;0;motorcycles;frogs;0;0;0;0;0;1;biophony
+2025-05-17T22_04_20.972Z;cfc291d3;spring;night;Wetland;Loenderveen;self-noise;reed;cars;gulls, coot;1;0;0;1;0;0;geophony
+2025-05-28T20_48_15.283Z;cfc291d3;spring;dusk;Wetland;Loenderveen;self-noise, high pitch;0;cars;frogs;0;0;0;0;0;1;technophony
+2025-07-20T20_18_46.169Z;cfc291d3;summer;dusk;Wetland;Loenderveen;self-noise;0;airplane;insects, duck;1;0;0;1;1;0;biophony
+2025-07-25T08_53_25.632Z;cfc291d3;summer;day;Wetland;Loenderveen;self-noise;0;cars;birdcalls, fly;0;0;1;1;1;0;biophony
+2025-07-27T22_50_46.571Z;cfc291d3;summer;night;Wetland;Loenderveen;self-noise;0;cars;insects, duck;1;0;0;1;1;0;biophony
+2025-07-31T04_11_41.235Z;cfc291d3;summer;dawn;Wetland;Loenderveen;self-noise;0;airplane;geese, songbird;1;1;0;1;0;0;anthropophony
+2025-08-12T03_36_54.696Z;cfc291d3;summer;dawn;Wetland;Loenderveen;self-noise;0;cars;geese, songbird;1;1;0;1;0;0;biophony
+2025-08-12T19_43_24.747Z;cfc291d3;summer;dusk;Wetland;Loenderveen;self-noise;reed braking;0;gulls, insects, duck;1;0;0;1;1;0;biophony
+2025-08-13T21_55_10.374Z;cfc291d3;summer;night;Wetland;Loenderveen;self-noise;0;cars;insects, gulls, duck;1;0;0;1;1;0;biophony
+2025-08-15T02_23_59.794Z;cfc291d3;summer;night;Wetland;Loenderveen;self-noise;0;0;ducks, geese;1;0;0;1;0;0;biophony
+2025-08-16T09_37_44.801Z;cfc291d3;summer;day;Wetland;Loenderveen;self-noise;reed;cars;birdcall;0;0;1;1;0;0;geophony
+2025-08-24T13_05_41.432Z;cfc291d3;summer;day;Wetland;Loenderveen;self-noise;0;cars;songbird, coot, geese;1;1;0;1;0;0;biophony
+2025-08-29T04_11_20.688Z;cfc291d3;summer;dawn;Wetland;Loenderveen;self-noise;0;cars;ducks, birdcall, geese;1;0;1;1;0;0;biophony
+2025-08-31T19_24_10.179Z;cfc291d3;summer;dusk;Wetland;Loenderveen;self-noise;0;0;insects, ducks, gulls, geese;1;0;0;1;0;0;biophony
+2025-05-19T02_02_59.138Z;cfc291d3;spring;dawn;Wetland;Loenderveen;self-noise;0;0;frogs, songbirds;0;1;0;1;0;1;biophony
+2025-05-08T09_20_28.770Z;cfc291d3;spring;day;Wetland;Loenderveen;self-noise;0;0;songbirds, gull;1;1;0;1;0;0;biophony
+2025-05-14T21_01_23.905Z;cfc291d3;spring;dusk;Wetland;Loenderveen;self-noise;reed moving;Car;Frogs;0;0;0;0;0;1;biophony
+2025-03-22T03_17_23.829Z;cfc291d3;spring;night;Wetland;Loenderveen;self-noise;wind;0;0;0;0;0;0;0;0;geophony
+2025-07-28T03_53_59.642Z;cfc291d3;summer;dawn;Wetland;Loenderveen;self-noise;0;0;birds;0;0;1;1;0;0;biophony
+2025-07-28T09_41_19.706Z;cfc291d3;summer;day;Wetland;Loenderveen;self-noise;rain, reed, wind;airplane;0;0;0;0;0;0;0;geophony
+2025-08-11T19_32_28.473Z;cfc291d3;summer;dusk;Wetland;Loenderveen;self-noise;0;cars;ducks, crickets;1;0;0;1;1;0;biophony
+2025-07-31T22_18_58.105Z;cfc291d3;summer;night;Wetland;Loenderveen;self-noise;0;cars;gull;1;0;0;1;0;0;technophony
+2025-03-23T09_46_30.420Z;fb104ba8;spring;day;Wetland;Loenderveen;self-noise;wind;airplane;coot, songbirds, geese;1;1;0;1;0;0;geophony
+2025-04-03T03_28_25.901Z;fb104ba8;spring;night;Wetland;Loenderveen;self-noise;wind;0;gulls;1;0;0;1;0;0;geophony
+2025-04-05T19_26_31.721Z;fb104ba8;spring;dusk;Wetland;Loenderveen;self-noise, high pitch;wind;0;geese;1;0;0;1;0;0;geophony
+2025-04-13T23_49_52.610Z;fb104ba8;spring;night;Wetland;Loenderveen;self-noise;wind;0;insect, songbird, frog, geese;1;1;0;1;1;1;geophony
+2025-04-20T19_04_53.930Z;fb104ba8;spring;dusk;Wetland;Loenderveen;self-noise;wind;airplane;cricket, gull;1;0;0;1;1;0;geophony
+2025-04-24T03_26_58.103Z;fb104ba8;spring;dawn;Wetland;Loenderveen;self-noise;wind;airplane;songbirds;0;1;0;1;0;0;geophony
+2025-04-29T17_56_59.319Z;fb104ba8;spring;day;Wetland;Loenderveen;self-noise;wind;airplane, motorcycle;fly, goose, songbirds;1;1;0;1;1;0;geophony
+2025-05-11T20_53_20.955Z;fb104ba8;spring;dusk;Wetland;Loenderveen;self-noise, high pitch;wind;0;gulls;1;0;0;1;0;0;geophony
+2025-05-19T02_57_52.971Z;fb104ba8;spring;dawn;Wetland;Loenderveen;self-noise;wind;motorcycles;songbirds, coot;1;1;0;1;0;0;biophony
+2025-06-16T02_46_23.691Z;fb104ba8;spring;dawn;Wetland;Loenderveen;self-noise;wind;cars;insect, songbirds, gull, fly;1;1;0;1;1;0;biophony
+2025-06-17T01_10_24.840Z;fb104ba8;spring;night;Wetland;Loenderveen;self-noise;0;0;insect, songbird;0;1;0;1;1;0;biophony
+2025-06-19T05_35_02.413Z;fb104ba8;spring;day;Wetland;Loenderveen;self-noise;wind;airplane;songbirds;0;1;0;1;0;0;anthropophony
+2025-06-22T11_55_08.503Z;fb104ba8;summer;day;Wetland;Loenderveen;self-noise;rain, wind;0;songbird, crow;0;1;1;1;0;0;geophony
+2025-06-23T12_06_05.012Z;fb104ba8;summer;day;Wetland;Loenderveen;self-noise;reed, wind;0;songbird;0;1;0;1;0;0;geophony
+2025-06-23T21_09_44.859Z;fb104ba8;summer;dusk;Wetland;Loenderveen;self-noise;wind, reed;0;0;0;0;0;0;0;0;geophony
+2025-06-27T03_00_49.386Z;fb104ba8;summer;dawn;Wetland;Loenderveen;self-noise;0;0;insects, songbirds;0;1;0;1;0;1;biophony
+2025-07-02T04_55_49.909Z;fb104ba8;summer;day;Wetland;Loenderveen;self-noise;0;cars;gulls, songbirds;1;1;0;1;0;0;biophony
+2025-07-03T03_21_01.915Z;fb104ba8;summer;dawn;Wetland;Loenderveen;self-noise;wind, reed;0;songbirds;0;1;0;1;0;0;geophony
+2025-07-15T23_54_15.122Z;fb104ba8;summer;night;Wetland;Loenderveen;self-noise;wind, reed;0;duck;1;0;0;1;0;0;geophony
+2025-08-01T23_28_36.078Z;fb104ba8;summer;night;Wetland;Loenderveen;self-noise;wind;0;0;0;0;0;0;0;0;geophony
+2025-08-04T19_44_39.378Z;fb104ba8;summer;dusk;Wetland;Loenderveen;self-noise;wind, reed;0;insects, geese;1;0;0;1;1;0;geophony
+2025-08-13T20_12_13.695Z;fb104ba8;summer;dusk;Wetland;Loenderveen;self-noise;0;motorcycles;insects, gulls;1;0;0;1;1;0;biophony
+2025-08-19T04_10_48.076Z;fb104ba8;summer;dawn;Wetland;Loenderveen;self-noise;wind, movement;motorcycles;coot, songbird;1;1;0;1;0;0;technophony
+2025-08-22T21_50_30.103Z;fb104ba8;summer;night;Wetland;Loenderveen;self-noise;wind, reed;0;duck;1;0;0;1;0;0;geophony
+2025-03-28T05_08_54.477Z;fb104ba8;spring;dawn;Wetland;Loenderveen;self-noise;wind;0;songbirds, crows;0;1;1;1;0;0;biophony
+2025-05-19T11_16_14.366Z;fb104ba8;spring;day;Wetland;Loenderveen;self-noise;wind;airplane;songbirds, gull;1;1;0;1;0;0;geophony
+2025-04-14T18_58_47.409Z;fb104ba8;spring;dusk;Wetland;Loenderveen;self-noise;wind;0;cricket, songbird, coot;1;1;0;1;1;0;geophony
+2025-06-13T23_52_21.154Z;fb104ba8;spring;night;Wetland;Loenderveen;self-noise;wind, movement at the mic;0;frog, cricket;0;0;0;0;1;1;geophony
+2025-06-24T03_13_22.292Z;fb104ba8;summer;dawn;Wetland;Loenderveen;self-noise;wind, reed;0;songbirds, coot;1;1;0;1;0;0;geophony
+2025-07-05T18_48_57.947Z;fb104ba8;summer;day;Wetland;Loenderveen;self-noise;wind;0;insect, coot;1;0;0;1;1;0;geophony
+2025-06-22T20_58_47.492Z;fb104ba8;summer;dusk;Wetland;Loenderveen;self-noise;wind, reed;0;0;0;0;0;0;0;0;geophony
+2025-08-20T23_14_20.385Z;fb104ba8;summer;night;Wetland;Loenderveen;self-noise;wind;sirens;crickets, gull;1;0;0;1;1;0;geophony
+2025-04-08T03_50_42.116Z;3a46c646;spring;dawn;Wetland;Onlanden;self-noise;0;0;gulls, songbirds, geese;1;1;0;1;0;0;biophony
+2025-04-13T13_04_16.407Z;3a46c646;spring;day;Wetland;Onlanden;self-noise;wind;0;geese, coot;1;0;0;1;0;0;geophony
+2025-04-15T17_12_54.006Z;3a46c646;spring;day;Wetland;Onlanden;self-noise;rain, wind;cars;gulls, songbirds;1;1;0;1;0;0;geophony
+2025-04-19T15_46_00.400Z;3a46c646;spring;day;Wetland;Onlanden;self-noise;wind;cars;geese, songbird;1;1;0;1;0;0;geophony
+2025-04-25T03_48_04.857Z;3a46c646;spring;dawn;Wetland;Onlanden;self-noise;wind;0;songbirds, geese, gulls;1;1;0;1;0;0;biophony
+2025-05-12T01_07_26.089Z;3a46c646;spring;night;Wetland;Onlanden;self-noise;wind;0;songbirds;0;1;0;1;0;0;geophony
+2025-05-18T19_52_03.042Z;3a46c646;spring;dusk;Wetland;Onlanden;self-noise;wind;0;frogs, songbirds, cricket, gull;1;1;0;1;1;1;technophony
+2025-05-23T21_52_37.643Z;3a46c646;spring;night;Wetland;Onlanden;self-noise;0;0;duck;1;0;0;1;0;0;biophony
+2025-06-04T23_35_04.909Z;3a46c646;spring;night;Wetland;Onlanden;self-noise;0;0;gulls, frogs, crows;1;0;1;1;0;1;biophony
+2025-06-11T01_01_36.299Z;3a46c646;spring;dawn;Wetland;Onlanden;self-noise;0;0;frogs;0;0;0;0;0;1;biophony
+2025-06-14T21_59_15.279Z;3a46c646;spring;dusk;Wetland;Onlanden;self-noise;0;0;frogs;0;0;0;0;0;1;biophony
+2025-06-16T21_36_04.555Z;3a46c646;spring;dusk;Wetland;Onlanden;self-noise;0;0;gulls, geese;1;0;0;1;0;0;biophony
+2025-07-13T10_46_03.316Z;3a46c646;summer;day;Wetland;Onlanden;self-noise, buzzing;wind;0;0;0;0;0;0;0;0;technophony
+2025-07-14T21_16_19.025Z;3a46c646;summer;dusk;Wetland;Onlanden;self-noise;0;0;insects, frogs;0;0;0;0;1;0;biophony
+2025-07-18T20_29_54.720Z;3a46c646;summer;dusk;Wetland;Onlanden;self-noise;wind;0;insects, frogs;0;0;0;0;1;1;biophony
+2025-07-25T22_02_19.160Z;3a46c646;summer;night;Wetland;Onlanden;self-noise;0;0;frogs;0;0;0;0;0;1;biophony
+2025-07-26T23_35_04.023Z;3a46c646;summer;night;Wetland;Onlanden;self-noise;rain, wind;0;frogs, mammal, geese;1;0;0;1;0;1;geophony
+2025-07-27T02_07_18.982Z;3a46c646;summer;dawn;Wetland;Onlanden;self-noise;rain;0;frogs;0;0;0;0;0;1;geophony
+2025-07-30T01_38_46.923Z;3a46c646;summer;night;Wetland;Onlanden;self-noise;0;0;frogs;0;0;0;0;0;1;biophony
+2025-08-17T16_48_41.790Z;3a46c646;summer;day;Wetland;Onlanden;self-noise;wind;cars;insects, geese, coot;1;0;0;1;1;0;biophony
+2025-08-30T04_06_17.744Z;3a46c646;summer;dawn;Wetland;Onlanden;self-noise;wind;0;gulls, songbirds;1;1;0;1;0;0;technophony
+2025-09-01T06_49_23.028Z;3a46c646;summer;day;Wetland;Onlanden;self-noise;wind;0;birdcalls, songbird;0;1;1;1;0;0;biophony
+2025-09-03T04_55_34.942Z;3a46c646;summer;dawn;Wetland;Onlanden;self-noise;wind;0;songbird;0;1;0;1;0;0;geophony
+2025-09-13T19_06_14.093Z;3a46c646;summer;dusk;Wetland;Onlanden;self-noise;wind;0;gull, geese;1;0;0;1;0;0;geophony
+2025-04-12T03_49_32.350Z;3a46c646;spring;dawn;Wetland;Onlanden;self-noise;0;0;songbirds, geese, crows;1;1;1;1;0;0;biophony
+2025-05-30T04_47_29.162Z;3a46c646;spring;day;Wetland;Onlanden;self-noise;0;0;songbirds, geese;1;1;0;1;0;0;biophony
+2025-05-02T19_41_23.078Z;3a46c646;spring;dusk;Wetland;Onlanden;self-noise;wind;0;songbird, gull;1;1;0;1;0;0;biophony
+2025-04-06T02_28_11.820Z;3a46c646;spring;night;Wetland;Onlanden;self-noise;wind;0;gulls;1;0;0;1;0;0;geophony
+2025-09-18T04_40_16.162Z;3a46c646;summer;dawn;Wetland;Onlanden;self-noise;wind;0;gulls, geese;1;0;0;1;0;0;biophony
+2025-07-15T12_23_41.079Z;3a46c646;summer;day;Wetland;Onlanden;self-noise;wind;airplane;songbird;0;1;0;1;0;0;anthropophony
+2025-07-31T20_13_28.354Z;3a46c646;summer;dusk;Wetland;Onlanden;self-noise;0;cars, motors;cricket, frogs;0;0;0;0;1;1;biophony
+2025-09-13T01_12_44.408Z;3a46c646;summer;night;Wetland;Onlanden;self-noise;wind;0;gull;1;0;0;1;0;0;geophony
+2025-04-01T18_50_08.504Z;6383061a;spring;dusk;Wetland;Onlanden;self-noise;wind, reed;airplane;geese;1;0;0;1;0;0;geophony
+2025-04-13T03_24_34.622Z;6383061a;spring;night;Wetland;Onlanden;self-noise;rain;0;ducks, songbirds, geese;1;1;0;1;0;0;biophony
+2025-04-13T15_59_41.066Z;6383061a;spring;day;Wetland;Onlanden;self-noise, ticking;wind, movement;0;gulls, songbird;1;1;0;1;0;0;geophony
+2025-04-24T20_00_57.993Z;6383061a;spring;dusk;Wetland;Onlanden;self-noise, high pitch;0;cars;0;0;0;0;0;0;0;technophony
+2025-05-05T02_54_46.706Z;6383061a;spring;dawn;Wetland;Onlanden;self-noise;wind;0;songbirds;0;1;0;1;0;0;biophony
+2025-05-22T15_26_15.013Z;6383061a;spring;day;Wetland;Onlanden;self-noise;wind, rain, reed;0;0;0;0;0;0;0;0;geophony
+2025-05-28T00_30_27.387Z;6383061a;spring;night;Wetland;Onlanden;self-noise;wind;0;frogs;0;0;0;0;0;1;geophony
+2025-05-28T03_02_36.528Z;6383061a;spring;dawn;Wetland;Onlanden;self-noise;wind;0;frogs, songbirds, gulls;1;1;0;1;0;1;biophony
+2025-05-30T03_10_25.053Z;6383061a;spring;dawn;Wetland;Onlanden;self-noise;wind, reed;0;gulls, geese, songbirds;1;1;0;1;0;0;biophony
+2025-05-31T21_43_50.003Z;6383061a;spring;dusk;Wetland;Onlanden;self-noise;0;motorcycles;frogs;0;0;0;0;0;1;biophony
+2025-06-01T00_29_56.844Z;6383061a;spring;night;Wetland;Onlanden;self-noise;wind;0;frogs, songbirds;0;1;0;1;0;1;biophony
+2025-06-19T07_29_53.583Z;6383061a;spring;day;Wetland;Onlanden;self-noise;wind, reed ;0;songbirds, frogs;0;1;0;1;0;1;geophony
+2025-06-25T21_41_57.633Z;6383061a;summer;dusk;Wetland;Onlanden;self-noise;wind;0;frogs, geese, duck;1;0;0;1;0;1;biophony
+2025-06-30T21_06_06.931Z;6383061a;summer;dusk;Wetland;Onlanden;self-noise;wind;voices;frogs, insects;0;0;0;0;1;1;biophony
+2025-07-01T17_30_39.049Z;6383061a;summer;day;Wetland;Onlanden;self-noise;0;0;insects, songbirds, crows;0;1;1;1;1;0;biophony
+2025-07-01T22_02_29.063Z;6383061a;summer;dusk;Wetland;Onlanden;self-noise;wind;0;frogs, insects;0;0;0;0;1;1;biophony
+2025-07-10T01_31_07.805Z;6383061a;summer;dawn;Wetland;Onlanden;self-noise;0;0;frogs, coot, gull, songbird;1;1;0;1;0;1;biophony
+2025-07-11T02_28_29.676Z;6383061a;summer;dawn;Wetland;Onlanden;self-noise;0;0;frogs, songbirds;0;1;0;1;0;1;biophony
+2025-07-14T11_04_39.183Z;6383061a;summer;day;Wetland;Onlanden;self-noise, ticking;wind;0;gulls, fly;1;0;0;1;1;0;technophony
+2025-08-02T00_21_21.831Z;6383061a;summer;night;Wetland;Onlanden;self-noise;0;0;frogs;0;0;0;0;0;1;technophony
+2025-08-02T04_54_19.077Z;6383061a;summer;day;Wetland;Onlanden;self-noise;rain;cars;gulls;1;0;0;1;0;0;geophony
+2025-08-06T23_15_29.369Z;6383061a;summer;night;Wetland;Onlanden;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-08-13T21_16_16.144Z;6383061a;summer;night;Wetland;Onlanden;self-noise;0;0;insects, gulls;1;0;0;1;1;0;biophony
+2025-08-21T03_51_12.814Z;6383061a;summer;dawn;Wetland;Onlanden;self-noise, high pitch;0;0;gulls;1;0;0;1;0;0;biophony
+2025-05-24T02_49_00.492Z;6383061a;spring;dawn;Wetland;Onlanden;self-noise;0;0;songbirds, gull;1;1;0;1;0;0;biophony
+2025-04-23T17_49_11.322Z;6383061a;spring;day;Wetland;Onlanden;self-noise;wind, rain;0;birdcall;0;0;1;1;0;0;geophony
+2025-06-19T20_35_12.703Z;6383061a;spring;dusk;Wetland;Onlanden;self-noise;0;0;songbirds, gull;1;1;0;0;0;0;technophony
+2025-05-28T00_45_33.543Z;6383061a;spring;night;Wetland;Onlanden;self-noise;wind, rain;0;birds, insects;0;0;1;1;1;0;geophony
+2025-08-15T03_15_42.138Z;6383061a;summer;dawn;Wetland;Onlanden;self-noise;0;0;distant birdcall;0;0;1;1;0;0;technophony
+2025-07-19T17_31_42.595Z;6383061a;summer;day;Wetland;Onlanden;self-noise;wind;0;birds, insects;0;0;1;1;1;0;geophony
+2025-07-12T20_31_42.021Z;6383061a;summer;dusk;Wetland;Onlanden;self-noise;0;music, voices;crickets, gulls, fly;1;0;0;1;1;0;biophony
+2025-08-26T00_28_19.357Z;6383061a;summer;night;Wetland;Onlanden;self-noise;0;0;distant duck;1;0;0;1;0;0;technophony
+2025-04-02T19_00_51.948Z;9d07fc31;spring;dusk;Wetland;Onlanden;self-noise;wind;0;gulls, songbirds, geese;1;1;0;1;0;0;biophony
+2025-04-27T20_33_54.425Z;9d07fc31;spring;night;Wetland;Onlanden;self-noise;0;0;geese, songbird;1;1;0;1;0;0;technophony
+2025-05-06T19_26_32.791Z;9d07fc31;spring;dusk;Wetland;Onlanden;self-noise;0;0;gulls, insect;1;0;0;1;1;0;biophony
+2025-05-07T03_46_03.579Z;9d07fc31;spring;dawn;Wetland;Onlanden;self-noise;0;0;songbirds, geese, gulls;1;1;0;1;0;0;biophony
+2025-05-11T01_42_37.757Z;9d07fc31;spring;night;Wetland;Onlanden;self-noise;wind;0;insect;0;0;0;0;1;0;biophony
+2025-05-12T02_25_11.351Z;9d07fc31;spring;dawn;Wetland;Onlanden;self-noise;wind;0;cricket, gulls, songbird;1;1;0;1;1;0;biophony
+2025-05-24T09_38_36.203Z;9d07fc31;spring;day;Wetland;Onlanden;self-noise;wind, reed;0;fly, songbirds;0;1;0;1;1;0;geophony
+2025-05-29T21_27_49.362Z;9d07fc31;spring;dusk;Wetland;Onlanden;self-noise;reed;0;frogs;0;0;0;0;0;1;geophony
+2025-05-30T19_22_50.013Z;9d07fc31;spring;day;Wetland;Onlanden;self-noise;0;0;crows, songbirds;0;0;1;1;0;0;biophony
+2025-06-05T23_35_01.823Z;9d07fc31;spring;night;Wetland;Onlanden;self-noise;rain, reed, wind;0;0;0;0;0;0;0;0;geophony
+2025-06-12T03_12_53.868Z;9d07fc31;spring;dawn;Wetland;Onlanden;self-noise;wind;0;gulls;1;0;0;1;0;0;biophony
+2025-06-18T11_28_49.628Z;9d07fc31;spring;day;Wetland;Onlanden;self-noise;wind, reed;0;geese, gulls, songbird;1;1;0;1;0;0;biophony
+2025-06-21T00_56_04.195Z;9d07fc31;summer;dawn;Wetland;Onlanden;self-noise;0;0;songbirds, frogs, geese;1;1;0;1;0;1;biophony
+2025-06-21T21_35_35.942Z;9d07fc31;summer;dusk;Wetland;Onlanden;self-noise;0;airplane;frogs, geese;1;0;0;1;0;1;biophony
+2025-06-23T21_12_13.801Z;9d07fc31;summer;dusk;Wetland;Onlanden;self-noise;reed, wind;0;crows;0;0;1;1;0;0;geophony
+2025-07-16T00_46_02.581Z;9d07fc31;summer;night;Wetland;Onlanden;self-noise;0;0;songbird;0;1;0;1;0;0;technophony
+2025-07-17T05_29_57.592Z;9d07fc31;summer;day;Wetland;Onlanden;self-noise;wind;0;insect;0;0;0;0;1;0;geophony
+2025-07-19T22_43_43.909Z;9d07fc31;summer;night;Wetland;Onlanden;self-noise;0;airplane;insects, frogs;0;0;0;0;1;1;biophony
+2025-07-21T23_05_38.896Z;9d07fc31;summer;night;Wetland;Onlanden;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-07-27T09_06_34.003Z;9d07fc31;summer;day;Wetland;Onlanden;self-noise;wind;0;0;0;0;0;0;0;0;technophony
+2025-08-26T03_51_50.908Z;9d07fc31;summer;dawn;Wetland;Onlanden;self-noise;0;0;duck, geese, birdcall;1;0;1;1;0;0;biophony
+2025-08-26T04_22_03.218Z;9d07fc31;summer;dawn;Wetland;Onlanden;self-noise;0;0;gull, songbird;1;1;0;1;0;0;biophony
+2025-09-05T07_02_03.211Z;9d07fc31;summer;day;Wetland;Onlanden;self-noise;wind, reed;cars;birdcall;0;0;1;1;0;0;geophony
+2025-09-16T19_13_02.003Z;9d07fc31;summer;dusk;Wetland;Onlanden;self-noise;wind;cars;0;0;0;0;0;0;0;technophony
+2025-05-07T02_30_33.027Z;9d07fc31;spring;dawn;Wetland;Onlanden;self-noise;0;0;songbirds, cricket, crows;0;1;1;1;1;0;biophony
+2025-04-30T16_34_55.746Z;9d07fc31;spring;day;Wetland;Onlanden;self-noise;wind;0;crows, songbird;0;1;1;1;0;0;geophony
+2025-05-05T20_30_56.511Z;9d07fc31;spring;dusk;Wetland;Onlanden;self-noise;wind;music;gulls;1;0;0;1;0;0;technophony
+2025-04-19T00_57_37.166Z;9d07fc31;spring;night;Wetland;Onlanden;self-noise;0;0;bird, frogs;0;0;1;1;0;1;biophony
+2025-06-26T02_27_15.071Z;9d07fc31;summer;dawn;Wetland;Onlanden;self-noise;0;0;birds;0;0;1;1;0;0;biophony
+2025-07-24T17_21_07.675Z;9d07fc31;summer;day;Wetland;Onlanden;self-noise;wind, reed;0;crickets;0;0;0;0;1;0;geophony
+2025-08-11T20_10_25.051Z;9d07fc31;summer;dusk;Wetland;Onlanden;self-noise;0;0;crickets, gull;1;0;0;1;1;0;biophony
+2025-09-21T22_38_48.326Z;9d07fc31;summer;night;Wetland;Onlanden;self-noise;0;0;geese;1;0;0;1;0;0;technophony
+2025-03-24T05_36_44.262Z;498873b2;spring;dawn;Wetland;OVP;self-noise;wind;airplane;songbirds, gull;1;1;0;1;0;0;geophony
+2025-04-04T18_41_12.970Z;498873b2;spring;dusk;Wetland;OVP;self-noise;wind;0;songbirds, geese;1;1;0;1;0;0;geophony
+2025-04-10T14_14_28.292Z;498873b2;spring;day;Wetland;OVP;self-noise;wind;0;geese, songbirds;1;1;0;1;0;0;geophony
+2025-04-11T16_41_17.160Z;498873b2;spring;day;Wetland;OVP;self-noise;wind;airplane;songbirds, geese;1;1;0;1;0;0;biophony
+2025-04-18T00_04_16.651Z;498873b2;spring;night;Wetland;OVP;self-noise;wind;0;0;0;0;0;0;0;0;geophony
+2025-04-18T03_52_00.007Z;498873b2;spring;dawn;Wetland;OVP;self-noise;0;airplane;songbirds;0;1;0;1;0;0;biophony
+2025-04-18T23_29_54.478Z;498873b2;spring;night;Wetland;OVP;self-noise;0;airplane;0;0;0;0;0;0;0;technophony
+2025-04-30T17_23_43.855Z;498873b2;spring;day;Wetland;OVP;self-noise;wind, reed;0;songbirds;0;1;0;1;0;0;geophony
+2025-05-04T20_23_18.526Z;498873b2;spring;dusk;Wetland;OVP;self-noise;wind;0;0;0;0;0;0;0;0;technophony
+2025-05-14T00_38_36.216Z;498873b2;spring;night;Wetland;OVP;self-noise;wind;0;frogs;0;0;0;0;0;1;biophony
+2025-05-28T21_04_50.071Z;498873b2;spring;dusk;Wetland;OVP;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-06-03T01_30_46.537Z;498873b2;spring;dawn;Wetland;OVP;self-noise;0;0;gulls, songbirds;1;1;0;1;0;0;biophony
+2025-06-30T22_28_54.421Z;498873b2;summer;dusk;Wetland;OVP;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-07-01T13_21_02.195Z;498873b2;summer;day;Wetland;OVP;self-noise;wind, reed;airplane;songbirds;0;1;0;1;0;0;geophony
+2025-07-04T20_41_33.257Z;498873b2;summer;dusk;Wetland;OVP;self-noise;wind;0;insects;0;0;0;0;1;0;biophony
+2025-07-05T02_45_10.767Z;498873b2;summer;dawn;Wetland;OVP;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-07-07T18_58_24.004Z;498873b2;summer;day;Wetland;OVP;self-noise;wind, reed;airplane;0;0;0;0;0;0;0;geophony
+2025-07-07T21_29_24.895Z;498873b2;summer;dusk;Wetland;OVP;self-noise;wind;0;insect;0;0;0;0;1;0;biophony
+2025-07-23T18_51_53.711Z;498873b2;summer;day;Wetland;OVP;self-noise;wind, reed;0;insects;0;0;0;0;1;0;biophony
+2025-07-28T23_07_39.556Z;498873b2;summer;night;Wetland;OVP;self-noise;wind, reed;0;insects;0;0;0;0;1;0;geophony
+2025-08-05T03_42_57.500Z;498873b2;summer;dawn;Wetland;OVP;self-noise;wind, reed;0;geese;1;0;0;1;0;0;geophony
+2025-08-16T23_14_19.240Z;498873b2;summer;night;Wetland;OVP;self-noise;wind, reed;0;0;0;0;0;0;0;0;geophony
+2025-08-20T22_12_15.131Z;498873b2;summer;night;Wetland;OVP;self-noise;wind, reed;0;0;0;0;0;0;0;0;geophony
+2025-08-21T04_15_52.704Z;498873b2;summer;dawn;Wetland;OVP;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-03-28T05_04_51.072Z;498873b2;spring;dawn;Wetland;OVP;self-noise;0;0;songbird, geese;1;1;0;1;0;0;biophony
+2025-05-08T07_46_33.525Z;498873b2;spring;day;Wetland;OVP;self-noise;0;0;songbirds;0;1;0;1;0;0;biophony
+2025-04-02T18_19_25.224Z;498873b2;spring;dusk;Wetland;OVP;self-noise;wind;0;songbird, geese;1;1;0;1;0;0;geophony
+2025-05-24T22_52_10.697Z;498873b2;spring;night;Wetland;OVP;self-noise;wind;0;gulls;1;0;0;1;0;0;geophony
+2025-08-09T03_44_28.626Z;498873b2;summer;dawn;Wetland;OVP;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-06-27T19_25_05.412Z;498873b2;summer;day;Wetland;OVP;self-noise;0;0;songbird, cricket;0;1;0;1;1;0;technophony
+2025-07-14T21_30_19.955Z;498873b2;summer;dusk;Wetland;OVP;self-noise;0;0;cricket;0;0;0;0;1;0;biophony
+2025-08-01T22_52_16.039Z;498873b2;summer;night;Wetland;OVP;self-noise;wind;0;0;0;0;0;0;0;0;geophony
+2025-03-25T18_53_47.814Z;d593cb78;spring;dusk;Wetland;OVP;self-noise;wind, reed;0;0;0;0;0;0;0;0;geophony
+2025-03-28T05_20_49.632Z;d593cb78;spring;dawn;Wetland;OVP;self-noise;0;0;songbirds, geese, coot, gulls;1;1;0;1;0;0;biophony
+2025-04-24T20_20_51.807Z;d593cb78;spring;dusk;Wetland;OVP;self-noise;wind, reed;0;0;0;0;0;0;0;0;geophony
+2025-04-29T10_42_14.053Z;d593cb78;spring;day;Wetland;OVP;self-noise, ticking;wind, reed;airplane;songbirds;0;1;0;1;0;0;biophony
+2025-05-01T22_23_36.995Z;d593cb78;spring;night;Wetland;OVP;self-noise;0;airplane;geese, songbirds, frog;1;1;0;1;0;1;biophony
+2025-05-07T13_25_05.014Z;d593cb78;spring;day;Wetland;OVP;self-noise;wind, reed;0;songbirds, birdcalls;0;1;1;1;0;0;geophony
+2025-05-14T21_59_27.960Z;d593cb78;spring;night;Wetland;OVP;self-noise;wind, rain, reed;0;gulls;1;0;0;1;0;0;geophony
+2025-05-16T14_18_03.376Z;d593cb78;spring;day;Wetland;OVP;self-noise;wind, rain, reed;0;gulls;1;0;0;1;0;0;geophony
+2025-05-29T03_19_27.989Z;d593cb78;spring;dawn;Wetland;OVP;self-noise;0;0;songbirds, cricket, gulls;1;1;0;1;1;0;biophony
+2025-05-30T21_37_39.194Z;d593cb78;spring;dusk;Wetland;OVP;self-noise, high pitch;0;0;gull;1;0;0;1;0;0;technophony
+2025-06-01T03_06_53.511Z;d593cb78;spring;dawn;Wetland;OVP;self-noise;reed, wind;0;songbirds;0;1;0;1;0;0;geophony
+2025-06-04T00_07_02.458Z;d593cb78;spring;night;Wetland;OVP;self-noise;wind, rain, reed;0;geese, songbird;1;1;0;1;0;0;geophony
+2025-07-07T09_08_07.263Z;d593cb78;summer;day;Wetland;OVP;self-noise, buzzing;wind, reed;0;0;0;0;0;0;0;0;geophony
+2025-08-07T20_03_03.144Z;d593cb78;summer;dusk;Wetland;OVP;self-noise;0;0;insects;0;0;0;0;1;0;technophony
+2025-08-10T02_58_40.501Z;d593cb78;summer;dawn;Wetland;OVP;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-08-10T20_50_54.617Z;d593cb78;summer;dusk;Wetland;OVP;self-noise;0;0;geese;1;0;0;1;0;0;technophony
+2025-08-13T03_46_34.566Z;d593cb78;summer;dawn;Wetland;OVP;self-noise;0;0;songbird;0;1;0;1;0;0;biophony
+2025-08-18T20_02_19.905Z;d593cb78;summer;dusk;Wetland;OVP;self-noise;wind, reed;0;insects;0;0;0;0;1;0;geophony
+2025-08-28T12_37_29.351Z;d593cb78;summer;day;Wetland;OVP;self-noise;wind, reed;0;insects;0;0;0;0;1;0;biophony
+2025-09-03T02_53_43.511Z;d593cb78;summer;night;Wetland;OVP;self-noise;wind, reed;0;0;0;0;0;0;0;0;geophony
+2025-09-03T22_01_25.699Z;d593cb78;summer;night;Wetland;OVP;self-noise;wind, reed;0;insects;0;0;0;0;1;0;geophony
+2025-09-09T07_45_37.947Z;d593cb78;summer;day;Wetland;OVP;self-noise;rain;airplane;0;0;0;0;0;0;0;geophony
+2025-09-16T05_00_26.425Z;d593cb78;summer;dawn;Wetland;OVP;self-noise;wind, reed;0;gulls;1;0;0;1;0;0;geophony
+2025-09-18T02_51_15.287Z;d593cb78;summer;night;Wetland;OVP;self-noise;wind, reed;0;0;0;0;0;0;0;0;geophony
+2025-04-13T03_58_52.701Z;d593cb78;spring;dawn;Wetland;OVP;self-noise;wind, rain;0;songbird, gull;1;1;0;1;0;0;geophony
+2025-04-02T12_17_50.333Z;d593cb78;spring;day;Wetland;OVP;self-noise;wind;0;geese, gulls;1;0;0;1;0;0;geophony
+2025-05-23T21_06_33.650Z;d593cb78;spring;dusk;Wetland;OVP;self-noise;reed moving, wind;0;gull;1;0;0;1;0;0;geophony
+2025-03-23T20_32_46.347Z;d593cb78;spring;night;Wetland;OVP;self-noise;0;0;geese;1;0;0;1;0;0;biophony
+2025-08-28T04_04_03.188Z;d593cb78;summer;dawn;Wetland;OVP;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-09-10T16_45_05.147Z;d593cb78;summer;day;Wetland;OVP;self-noise;wind;0;distant birdcall;0;0;1;1;0;0;geophony
+2025-08-10T20_05_36.305Z;d593cb78;summer;dusk;Wetland;OVP;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-08-07T23_34_28.082Z;d593cb78;summer;night;Wetland;OVP;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-04-10T19_19_57.793Z;d7a35b3c;spring;dusk;Wetland;OVP;self-noise, high pitch;wind;airplane;geese;1;0;0;1;0;0;technophony
+2025-04-23T21_58_15.151Z;d7a35b3c;spring;night;Wetland;OVP;self-noise;wind, reed;airplane;geese, frog, songbird;1;1;0;1;0;1;geophony
+2025-05-01T19_23_57.679Z;d7a35b3c;spring;dusk;Wetland;OVP;self-noise, high pitch;0;airplane;geese, songbirds, coot;1;1;0;1;0;0;biophony
+2025-05-03T08_41_19.819Z;d7a35b3c;spring;day;Wetland;OVP;self-noise;0;airplane;songbirds;0;1;0;1;0;0;biophony
+2025-05-08T19_49_51.037Z;d7a35b3c;spring;dusk;Wetland;OVP;self-noise, high pitch;0;airplane;songbirds, geese;1;1;0;1;0;0;biophony
+2025-05-13T16_57_57.827Z;d7a35b3c;spring;day;Wetland;OVP;self-noise;reed, wind;0;songbirds, gulls, geese;1;1;0;1;0;0;biophony
+2025-05-15T23_52_27.346Z;d7a35b3c;spring;night;Wetland;OVP;self-noise;wind, reed;0;gulls;1;0;0;1;0;0;geophony
+2025-05-19T03_27_41.159Z;d7a35b3c;spring;dawn;Wetland;OVP;self-noise;0;0;geese, songbirds;1;1;0;1;0;0;biophony
+2025-05-27T02_09_01.452Z;d7a35b3c;spring;dawn;Wetland;OVP;self-noise;wind, rain, reed;0;songbirds, geese;1;1;0;1;0;0;geophony
+2025-06-01T01_46_59.129Z;d7a35b3c;spring;dawn;Wetland;OVP;self-noise;0;0;songbirds, gulls, geese;1;1;0;1;0;0;biophony
+2025-06-01T10_51_48.645Z;d7a35b3c;spring;day;Wetland;OVP;self-noise;reed, wind;0;songbirds, geese, fly;1;1;0;1;1;0;biophony
+2025-06-01T23_57_04.890Z;d7a35b3c;spring;night;Wetland;OVP;self-noise;wind, reed;0;geese, gulls;1;0;0;1;0;0;biophony
+2025-08-22T04_24_32.586Z;d7a35b3c;summer;dawn;Wetland;OVP;self-noise;reed;0;0;0;0;0;0;0;0;geophony
+2025-08-25T19_02_57.700Z;d7a35b3c;summer;dusk;Wetland;OVP;self-noise;0;airplane;crickets, crow;0;0;1;1;1;0;biophony
+2025-08-28T19_05_29.937Z;d7a35b3c;summer;dusk;Wetland;OVP;self-noise, high pitch;wind;cars;0;0;0;0;0;0;0;anthropophony
+2025-08-30T23_13_52.989Z;d7a35b3c;summer;night;Wetland;OVP;self-noise;wind;0;insects;0;0;0;0;1;0;geophony
+2025-09-03T17_14_52.386Z;d7a35b3c;summer;day;Wetland;OVP;self-noise;wind, reed;0;0;0;0;0;0;0;0;geophony
+2025-09-03T19_30_47.036Z;d7a35b3c;summer;dusk;Wetland;OVP;self-noise;wind;0;crows;0;0;1;1;0;0;geophony
+2025-09-05T04_46_31.481Z;d7a35b3c;summer;dawn;Wetland;OVP;self-noise;wind;cars;songbirds, geese;1;1;0;1;0;0;biophony
+2025-09-10T05_10_57.903Z;d7a35b3c;summer;dawn;Wetland;OVP;self-noise;0;cars;songbird;0;1;0;1;0;0;anthropophony
+2025-09-12T01_30_00.354Z;d7a35b3c;summer;night;Wetland;OVP;self-noise;wind;0;0;0;0;0;0;0;0;technophony
+2025-09-13T13_01_39.009Z;d7a35b3c;summer;day;Wetland;OVP;self-noise, ticking;wind;0;gull;1;0;0;1;0;0;geophony
+2025-09-16T16_06_30.601Z;d7a35b3c;summer;day;Wetland;OVP;self-noise;reed;airplane;geese, songbird;1;1;0;1;0;0;geophony
+2025-09-17T19_48_52.238Z;d7a35b3c;summer;night;Wetland;OVP;self-noise;wind, reed;cars;0;0;0;0;0;0;0;geophony
+2025-03-24T04_54_45.998Z;d7a35b3c;spring;dawn;Wetland;OVP;self-noise;0;car;songbirds, geese;1;1;0;1;0;0;biophony
+2025-04-12T14_54_52.408Z;d7a35b3c;spring;day;Wetland;OVP;self-noise;wind, rain;airplane;songbirds, geese, gull;1;1;0;1;0;0;geophony
+2025-03-27T19_03_01.741Z;d7a35b3c;spring;dusk;Wetland;OVP;self-noise;0;0;geese;1;0;0;1;0;0;biophony
+2025-04-14T21_04_06.732Z;d7a35b3c;spring;night;Wetland;OVP;self-noise;0;0;crows, coot ?;0;0;1;1;0;0;technophony
+2025-08-23T03_35_01.635Z;d7a35b3c;summer;dawn;Wetland;OVP;self-noise;reed;0;0;0;0;0;0;0;0;technophony
+2025-09-03T11_12_26.035Z;d7a35b3c;summer;day;Wetland;OVP;self-noise;wind, reed;0;0;0;0;0;0;0;0;geophony
+2025-08-29T18_46_12.241Z;d7a35b3c;summer;dusk;Wetland;OVP;self-noise;0;car;songbird;0;1;0;1;0;0;biophony
+2025-09-19T01_16_55.907Z;d7a35b3c;summer;night;Wetland;OVP;self-noise;wind;airplane;0;0;0;0;0;0;0;geophony
+2025-03-26T01_58_38.210Z;f0dc521c;spring;night;Wetland;OVP;self-noise;wind, reed;airplane;coot;1;0;0;1;0;0;geophony
+2025-04-01T15_35_10.062Z;f0dc521c;spring;day;Wetland;OVP;self-noise, ticking;wind, reed;airplane;geese, songbird;1;1;0;1;0;0;geophony
+2025-04-04T05_03_31.325Z;f0dc521c;spring;dawn;Wetland;OVP;self-noise;0;0;songbirds, geese;1;1;0;1;0;0;biophony
+2025-04-07T19_26_47.663Z;f0dc521c;spring;dusk;Wetland;OVP;self-noise, high pitch;wind;airplane;0;0;0;0;0;0;0;technophony
+2025-04-09T19_03_23.396Z;f0dc521c;spring;dusk;Wetland;OVP;self-noise, high pitch;wind;0;geese, gull;1;0;0;1;0;0;geophony
+2025-04-13T02_55_21.883Z;f0dc521c;spring;night;Wetland;OVP;self-noise;wind, rain;airplane;frog;0;0;0;0;0;1;geophony
+2025-04-18T04_41_24.187Z;f0dc521c;spring;dawn;Wetland;OVP;self-noise;0;0;songbirds, geese;1;1;0;1;0;0;biophony
+2025-05-08T20_39_56.041Z;f0dc521c;spring;dusk;Wetland;OVP;self-noise, high pitch;0;airplane;geese;1;0;0;1;0;0;anthropophony
+2025-05-10T02_24_16.549Z;f0dc521c;spring;dawn;Wetland;OVP;self-noise;0;0;gull, cricket, songbird;1;1;0;1;1;0;biophony
+2025-05-14T12_56_52.991Z;f0dc521c;spring;day;Wetland;OVP;self-noise;wind;0;songbirds, geese, gulls;1;1;0;1;0;0;biophony
+2025-05-16T00_27_22.679Z;f0dc521c;spring;night;Wetland;OVP;self-noise;0;0;songbird;1;0;0;1;0;0;technophony
+2025-05-21T09_56_35.775Z;f0dc521c;spring;day;Wetland;OVP;self-noise;wind, reed;0;songbirds, geese;1;1;0;1;0;0;geophony
+2025-08-25T03_52_22.604Z;f0dc521c;summer;dawn;Wetland;OVP;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-08-26T19_24_28.494Z;f0dc521c;summer;dusk;Wetland;OVP;self-noise;0;airplane;geese, insects;1;0;0;1;1;0;biophony
+2025-08-29T18_56_46.456Z;f0dc521c;summer;dusk;Wetland;OVP;self-noise;0;airplane;birdcall;0;0;1;0;0;0;anthropophony
+2025-08-30T20_38_17.967Z;f0dc521c;summer;night;Wetland;OVP;self-noise, high pitch;wind;0;insects;0;0;0;0;1;0;biophony
+2025-09-06T11_45_39.519Z;f0dc521c;summer;day;Wetland;OVP;self-noise, ticking;0;airplane;birdcall;0;0;1;1;0;0;technophony
+2025-09-11T21_59_02.340Z;f0dc521c;summer;night;Wetland;OVP;self-noise;wind, reed;0;0;0;0;0;0;0;0;geophony
+2025-09-12T09_19_47.840Z;f0dc521c;summer;day;Wetland;OVP;self-noise;wind, reed;cars;songbird;0;1;0;0;0;0;geophony
+2025-09-19T04_25_46.697Z;f0dc521c;summer;dawn;Wetland;OVP;self-noise;wind;cars;birdcall;0;0;1;1;0;0;technophony
+2025-09-19T05_26_11.085Z;f0dc521c;summer;dawn;Wetland;OVP;self-noise;0;cars;songbirds, geese, mammals;1;1;0;1;0;0;biophony
+2025-09-20T02_35_53.444Z;f0dc521c;summer;night;Wetland;OVP;self-noise;wind;0;0;0;0;0;0;0;0;technophony
+2025-09-20T08_38_19.279Z;f0dc521c;summer;day;Wetland;OVP;self-noise;0;airplane;songbirds;0;1;0;1;0;0;biophony
+2025-09-20T18_12_10.384Z;f0dc521c;summer;dusk;Wetland;OVP;self-noise;wind;0;mammal, birdcall;0;0;1;1;0;0;technophony
+2025-05-06T02_56_07.986Z;f0dc521c;spring;dawn;Wetland;OVP;self-noise;0;0;gulls, songbird;1;1;0;1;0;0;technophony
+2025-03-27T06_12_20.406Z;f0dc521c;spring;day;Wetland;OVP;self-noise;reed snapping;0;songbird, geese;1;1;0;1;0;0;geophony
+2025-04-15T19_53_55.180Z;f0dc521c;spring;dusk;Wetland;OVP;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-04-16T02_27_44.987Z;f0dc521c;spring;night;Wetland;OVP;self-noise;0;0;songbirds;0;1;0;1;0;0;technophony
+2025-08-29T04_36_00.041Z;f0dc521c;summer;dawn;Wetland;OVP;self-noise;0;0;songbird;0;1;0;1;0;0;technophony
+2025-08-22T17_40_24.990Z;f0dc521c;summer;day;Wetland;OVP;self-noise;wind, reed;0;0;0;0;0;0;0;0;geophony
+2025-08-29T19_57_10.867Z;f0dc521c;summer;dusk;Wetland;OVP;self-noise;wind;0;0;0;0;0;0;0;0;technophony
+2025-09-01T02_17_34.373Z;f0dc521c;summer;night;Wetland;OVP;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-03-25T18_55_55.157Z;30d19c18;spring;dusk;Forest;Veluwe;self-noise;wind;car;0;0;0;0;0;0;0;technophony
+2025-03-29T23_10_57.546Z;30d19c18;spring;night;Forest;Veluwe;self-noise;0;car;0;0;0;0;0;0;0;technophony
+2025-04-07T07_42_31.348Z;30d19c18;spring;day;Forest;Veluwe;self-noise;0;0;songbirds, woodpecker;0;1;1;1;0;0;biophony
+2025-04-16T19_39_50.955Z;30d19c18;spring;dusk;Forest;Veluwe;self-noise;0;cars;0;0;0;0;0;0;0;technophony
+2025-04-17T04_14_27.750Z;30d19c18;spring;dawn;Forest;Veluwe;self-noise;0;cars;songbirds;0;1;0;1;0;0;biophony
+2025-04-19T03_20_45.260Z;30d19c18;spring;dawn;Forest;Veluwe;self-noise;0;cars;0;0;0;0;0;0;0;technophony
+2025-05-03T23_00_24.644Z;30d19c18;spring;night;Forest;Veluwe;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-05-17T04_54_49.523Z;30d19c18;spring;day;Forest;Veluwe;self-noise;0;0;songbirds;0;1;0;1;0;0;biophony
+2025-05-26T16_06_53.304Z;30d19c18;spring;day;Forest;Veluwe;self-noise;wind;cars;songbirds;0;1;0;1;0;0;biophony
+2025-06-02T01_00_34.060Z;30d19c18;spring;night;Forest;Veluwe;self-noise;0;cars;0;0;0;0;0;0;0;technophony
+2025-06-08T20_14_32.814Z;30d19c18;spring;dusk;Forest;Veluwe;self-noise;0;airplane;songbirds;0;1;0;1;0;0;technophony
+2025-06-20T01_15_51.703Z;30d19c18;spring;dawn;Forest;Veluwe;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-06-26T21_01_01.014Z;30d19c18;summer;dusk;Forest;Veluwe;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-06-27T22_12_19.765Z;30d19c18;summer;dusk;Forest;Veluwe;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-07-01T12_26_36.460Z;30d19c18;summer;day;Forest;Veluwe;self-noise;wind;0;songbirds;0;1;0;1;0;0;technophony
+2025-07-02T08_05_42.675Z;30d19c18;summer;day;Forest;Veluwe;self-noise;0;0;songbirds;0;1;0;1;0;0;biophony
+2025-08-09T02_56_43.034Z;30d19c18;summer;dawn;Forest;Veluwe;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-08-12T07_46_11.538Z;30d19c18;summer;day;Forest;Veluwe;self-noise;0;airplane;songbird;0;1;0;1;0;0;technophony
+2025-08-17T03_08_33.779Z;30d19c18;summer;dawn;Forest;Veluwe;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-08-17T03_23_39.879Z;30d19c18;summer;dawn;Forest;Veluwe;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-08-19T21_52_48.576Z;30d19c18;summer;night;Forest;Veluwe;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-09-03T18_44_12.092Z;30d19c18;summer;dusk;Forest;Veluwe;self-noise;0;cars;0;0;0;0;0;0;0;anthropophony
+2025-09-11T01_17_44.614Z;30d19c18;summer;night;Forest;Veluwe;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-09-14T03_07_13.197Z;30d19c18;summer;night;Forest;Veluwe;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-05-02T03_41_47.821Z;30d19c18;spring;dawn;Forest;Veluwe;self-noise;0;0;songbird;0;1;0;1;0;0;biophony
+2025-04-20T06_17_47.002Z;30d19c18;spring;day;Forest;Veluwe;self-noise;wind;0;songbirds;0;1;0;1;0;0;biophony
+2025-06-08T21_14_56.861Z;30d19c18;spring;dusk;Forest;Veluwe;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-04-27T22_55_18.817Z;30d19c18;spring;night;Forest;Veluwe;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-07-24T03_57_31.982Z;30d19c18;summer;dawn;Forest;Veluwe;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-07-05T15_11_05.539Z;30d19c18;summer;day;Forest;Veluwe;self-noise;wind;0;0;0;0;0;0;0;0;technophony
+2025-08-23T19_05_03.256Z;30d19c18;summer;dusk;Forest;Veluwe;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-09-16T23_22_03.611Z;30d19c18;summer;night;Forest;Veluwe;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-03-26T05_28_54.290Z;438d2740;spring;dawn;Forest;Veluwe;self-noise;0;cars;songbirds;0;1;0;1;0;0;biophony
+2025-04-23T13_20_36.989Z;438d2740;spring;day;Forest;Veluwe;self-noise;0;cars;songbirds, fly;0;1;0;1;1;0;biophony
+2025-04-30T03_02_20.807Z;438d2740;spring;dawn;Forest;Veluwe;self-noise;0;cars;0;0;0;0;0;0;0;anthropophony
+2025-05-01T23_36_27.974Z;438d2740;spring;night;Forest;Veluwe;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-05-09T08_42_13.263Z;438d2740;spring;day;Forest;Veluwe;self-noise;0;cars;songbirds, fly;0;1;0;1;0;0;biophony
+2025-05-14T09_01_22.883Z;438d2740;spring;day;Forest;Veluwe;self-noise;wind;motorcycles;songbirds;0;1;0;1;0;0;biophony
+2025-05-27T22_27_42.711Z;438d2740;spring;night;Forest;Veluwe;self-noise;0;cars;0;0;0;0;0;0;0;anthropophony
+2025-05-29T00_24_20.134Z;438d2740;spring;night;Forest;Veluwe;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-06-03T03_20_54.876Z;438d2740;spring;dawn;Forest;Veluwe;self-noise;0;cars;songbirds;0;1;0;1;0;0;anthropophony
+2025-06-06T21_45_51.155Z;438d2740;spring;dusk;Forest;Veluwe;self-noise;0;cars;0;0;0;0;0;0;0;anthropophony
+2025-06-14T20_42_14.816Z;438d2740;spring;dusk;Forest;Veluwe;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-06-19T21_06_39.031Z;438d2740;spring;dusk;Forest;Veluwe;self-noise;0;cars;0;0;0;0;0;0;0;technophony
+2025-06-24T03_23_42.043Z;438d2740;summer;dawn;Forest;Veluwe;self-noise;0;cars;songbirds;0;1;0;1;0;0;biophony
+2025-07-05T21_15_19.190Z;438d2740;summer;dusk;Forest;Veluwe;self-noise;0;cars;0;0;0;0;0;0;0;anthropophony
+2025-07-06T23_57_15.906Z;438d2740;summer;night;Forest;Veluwe;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-07-10T03_17_16.204Z;438d2740;summer;dawn;Forest;Veluwe;self-noise;0;cars;0;0;0;0;0;0;0;anthropophony
+2025-07-11T16_18_21.192Z;438d2740;summer;day;Forest;Veluwe;self-noise;0;0;songbird;0;1;0;1;0;0;biophony
+2025-07-18T23_52_18.563Z;438d2740;summer;night;Forest;Veluwe;self-noise;0;cars;insects;0;0;0;0;1;0;biophony
+2025-07-20T06_37_02.256Z;438d2740;summer;day;Forest;Veluwe;self-noise;0;cars;songbird;0;1;0;0;0;0;anthropophony
+2025-08-01T00_28_29.795Z;438d2740;summer;night;Forest;Veluwe;self-noise;0;cars;0;0;0;0;0;0;0;technophony
+2025-08-03T20_44_34.770Z;438d2740;summer;dusk;Forest;Veluwe;self-noise;0;cars;insects;0;0;0;0;1;0;biophony
+2025-08-08T13_51_01.239Z;438d2740;summer;day;Forest;Veluwe;self-noise;0;0;insects;0;0;0;0;1;0;biophony
+2025-08-29T19_30_53.239Z;438d2740;summer;dusk;Forest;Veluwe;self-noise;rain;cars;0;0;0;0;0;0;0;anthropophony
+2025-09-07T04_58_45.339Z;438d2740;summer;dawn;Forest;Veluwe;self-noise;0;cars;0;0;0;0;0;0;0;anthropophony
+2025-04-18T04_07_38.763Z;438d2740;spring;dawn;Forest;Veluwe;self-noise;0;0;songbirds;0;1;0;1;0;0;biophony
+2025-05-24T05_03_12.524Z;438d2740;spring;day;Forest;Veluwe;self-noise;0;0;songbirds;0;1;0;1;0;0;biophony
+2025-05-27T21_42_24.717Z;438d2740;spring;dusk;Forest;Veluwe;self-noise;0;car;0;0;0;0;0;0;0;technophony
+2025-03-22T22_37_23.257Z;438d2740;spring;night;Forest;Veluwe;self-noise;0;car;0;0;0;0;0;0;0;technophony
+2025-08-19T04_21_21.333Z;438d2740;summer;dawn;Forest;Veluwe;self-noise;0;cars;birdcalls;0;0;1;1;0;0;anthropophony
+2025-07-07T18_20_48.961Z;438d2740;summer;day;Forest;Veluwe;self-noise;0;0;songbird;0;1;0;1;0;0;technophony
+2025-08-23T20_11_05.632Z;438d2740;summer;dusk;Forest;Veluwe;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-08-19T22_58_50.744Z;438d2740;summer;night;Forest;Veluwe;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-03-23T18_06_45.710Z;63c64349;spring;dusk;Forest;Veluwe;self-noise;0;airplane;songbirds;0;1;0;1;0;0;biophony
+2025-03-27T04_30_45.230Z;63c64349;spring;dawn;Forest;Veluwe;self-noise;0;0;songbirds;0;1;0;1;0;0;biophony
+2025-04-08T21_51_39.532Z;63c64349;spring;night;Forest;Veluwe;self-noise, high pitch, buzzing;0;cars;0;0;0;0;0;0;0;technophony
+2025-04-16T18_50_55.526Z;63c64349;spring;dusk;Forest;Veluwe;self-noise;0;cars;songbirds;0;1;0;1;0;0;technophony
+2025-04-17T17_16_38.848Z;63c64349;spring;day;Forest;Veluwe;self-noise;0;0;songbirds;0;1;0;1;0;0;biophony
+2025-04-22T12_25_23.955Z;63c64349;spring;day;Forest;Veluwe;self-noise;wind;cars;songbirds;0;1;0;1;0;0;biophony
+2025-05-06T21_49_45.355Z;63c64349;spring;night;Forest;Veluwe;self-noise, high pitch;0;0;0;0;0;0;0;0;0;technophony
+2025-05-10T01_09_59.398Z;63c64349;spring;night;Forest;Veluwe;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-05-11T05_23_57.260Z;63c64349;spring;day;Forest;Veluwe;self-noise;0;car;songbirds;0;1;0;1;0;0;biophony
+2025-05-18T03_11_22.537Z;63c64349;spring;dawn;Forest;Veluwe;self-noise;0;0;songbirds;0;1;0;1;0;0;biophony
+2025-06-05T03_16_25.157Z;63c64349;spring;dawn;Forest;Veluwe;self-noise;0;0;songbirds;0;1;0;1;0;0;biophony
+2025-06-07T21_30_54.030Z;63c64349;spring;dusk;Forest;Veluwe;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-03-21T04_48_43.612Z;63c64349;spring;dawn;Forest;Veluwe;self-noise;0;0;songbird;0;1;0;1;0;0;technophony
+2025-04-23T18_53_57.127Z;63c64349;spring;day;Forest;Veluwe;self-noise;0;0;songbirds;0;1;0;1;0;0;biophony
+2025-06-07T21_15_47.930Z;63c64349;spring;dusk;Forest;Veluwe;self-noise;0;0;0;0;0;0;0;0;0;technophony
+2025-04-03T21_55_32.689Z;63c64349;spring;night;Forest;Veluwe;self-noise;0;0;0;0;0;0;0;0;0;technophony
