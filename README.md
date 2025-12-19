@@ -42,7 +42,3 @@ Directory containing repeated acoustic index outputs. These files are included t
 Notes:
 
 All analyses were conducted in R 4.5.1.
-
-Citation:
-
-If you use any data or code from this repository, please cite the corresponding Master Thesis.
